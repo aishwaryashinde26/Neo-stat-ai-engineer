@@ -2,7 +2,7 @@ streamlit
 sqlalchemy
 python-dotenv
 PyPDF2
-
+sentence-transformers
 langchain
 langchain-community
 langchain-groq
